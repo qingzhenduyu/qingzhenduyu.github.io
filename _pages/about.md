@@ -24,7 +24,8 @@ Selected Publications
   Haotian Zhang, Junting Zhou, Haowei Lin, Hang Ye, Jianhua Zhu, Zihao Wang, Liangcai Gao, Yizhou Wang, Yitao Liang
   <br/>
   [[Paper](https://arxiv.org/abs/2406.04584)] [[Code](https://github.com/linhaowei1/CLoG)]
+
 Selected Awards
 ======
-- The Third Prize of Peking University Scholarship (top 2%), 2022.
-- Merit student pacesetter, 2022.
+- The Third Prize of Peking University Scholarship, 2022.
+- Merit Student Pacesetter, 2022.
