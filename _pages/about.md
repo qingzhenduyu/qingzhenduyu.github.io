@@ -19,7 +19,7 @@ Selected Publications
   <br/>
   [[Paper](https://arxiv.org/abs/2405.09032)] [[Code](https://github.com/qingzhenduyu/ICAL)]
 
-- **TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition**
+- **(AAAI 2025)TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition**
   <br/>
   Jianhua Zhu, Wenqi Zhao, Yu Li, Xingjian Hu, Liangcai Gao
   <br/>
